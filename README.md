@@ -9,6 +9,11 @@ There are two UIs. One uses Java's Swing library to create a user friendly inter
 Server
 
 Client (Terminal)
+Simply navigate to the directory the .java file is stored in, compile and run it.
+~~~~
+>javac nogui.java
+>java nogui
+~~~~
 
 Client (Swing)
 
